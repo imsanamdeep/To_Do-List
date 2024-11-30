@@ -1,2 +1,17 @@
-# To_Do-List
-This is a simple To-Do List application built using Python's Tkinter library. The app provides an interactive GUI for managing a to-do list, with features to add, update, delete, and view tasks. The task list is saved to a file, ensuring persistence between sessions.
+# To-Do List Application
+A Python-based GUI application to manage your tasks efficiently.
+
+## Features
+- View, add, update, and delete tasks
+- Persistent storage using a text file
+- User-friendly interface with Tkinter
+
+## How to Run
+1. Clone the repository:
+2. Run the script:
+
+## Contributions
+Contributions are welcome! Feel free to fork the project and submit a pull request.
+
+---
+Made with by Sanamdeep Singh
